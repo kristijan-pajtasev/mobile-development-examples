@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Example005</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="my_string_one">My String One</string>
+    <string name="my_string_two">My String Two</string>
+
+    <plurals name="dollar_plura">
+        <item quantity="one">1 Dollar</item>
+        <item quantity="other">%d Dollars</item>
+    </plurals>
 </resources>
