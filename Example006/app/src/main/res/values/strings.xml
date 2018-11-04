@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Example006</string>
+
+    <string-array name="my_string_array">
+        <item>First string</item>
+        <item>Second string</item>
+        <item>Third string</item>
+    </string-array>
 </resources>
