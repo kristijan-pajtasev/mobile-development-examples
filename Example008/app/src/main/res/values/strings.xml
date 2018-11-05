@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Example008</string>
+    <string name="imageViewDescription">Image View Description</string>
 </resources>
